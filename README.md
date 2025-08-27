@@ -38,9 +38,8 @@
 
 ## 数据获取
 
-数据集百度网盘下载链接：  
-[https://pan.baidu.com/s/1DbDPDxXClfecSpDXEbKs2g?pwd=1111](https://pan.baidu.com/s/1DbDPDxXClfecSpDXEbKs2g?pwd=1111)  
-提取码：1111
+数据集可通过以下百度网盘链接下载：
+链接: https://pan.baidu.com/s/1JMICzCtVtQ3-4dZlYWFimA 提取码: YQKJ
 
 ## 图片实例展示
 
